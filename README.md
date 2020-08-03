@@ -1,2 +1,2 @@
-# TES4_Oblivion_Battlemaps
-Tabletop battlemaps created from TES4: Oblivion
+# TES4: Oblivion Tabletop Maps
+Tabletop maps created from TES4: Oblivion
